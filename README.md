@@ -8,5 +8,5 @@ Features:
 - Some CSS styling
 
 Plans for the future:
-- Add a working login popup or site
-- Add a working sign-up pop or site
+- Add a working login pop up or site
+- Add a working sign-up pop up or site
