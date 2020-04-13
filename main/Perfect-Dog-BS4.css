@@ -3,7 +3,6 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    color: white;
     font-family: 'Martel Sans', sans-serif;
 }
 
@@ -41,6 +40,7 @@ html {
 
 #content {
     text-align: center;
+    color: white;
     text-shadow: black 0px 1px 5px;
 }
 
