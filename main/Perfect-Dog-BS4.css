@@ -56,11 +56,16 @@ h3 {
 hr {
     width: 400px;
     border-top: 1px solid #f8f8f8;
-    border-bottom: 1px solid rgba(0,0,0,0.2);
+    border-bottom: 2px solid rgba(0,0,0,0.2);
   }
 
-.btn {
+#content .btn {
     font-size: 1.2rem;
+}
+
+.modal .form-control {
+    width: 95%;
+    margin: 0 auto;
 }
 
 @media (max-width: 767px) {
