@@ -66,6 +66,19 @@ hr {
 .modal .form-control {
     width: 95%;
     margin: 0 auto;
+    padding: 0;
+    box-shadow: none;
+    border: 0;
+    border-bottom: 1px solid black;
+    border-radius: 0;
+}
+
+#form-btn{
+    margin-top: 1.5rem;
+}
+
+#form-btn > .btn {
+    margin-right: .6rem;
 }
 
 @media (max-width: 767px) {
@@ -84,6 +97,6 @@ hr {
     }
 
     #content {
-        padding-top: 30%;
+        padding-top: 25%;
     }
 }
